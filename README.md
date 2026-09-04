@@ -168,3 +168,13 @@ Customer_Segmentation/
 ├── .gitignore
 └── README.md
 
+
+
+Author
+Syed Shajahan
+
+B.Tech – Data Science
+
+License
+This project is developed for educational and research purposes.
+
